@@ -18,10 +18,10 @@
 <img width="1388" height="924" alt="image" src="https://github.com/user-attachments/assets/c7a1834d-f3c4-4a3d-8be7-ec9801c40a58" />
 
 
-📄 Файл экспортированного проекта:
-[Download Export project](./Final%20Project.export)
-📂 Папка с примерами программного кода на языке ST CoDeSys V3.5 представлены:
-📄 [Open folde with code file](./docs/)
-🖼️ Примеры визуализации проекта
-📄 [Open folde with visual file](./png/)
+📄 Файл экспортированного проекта CoDeSys V3.5:  
+Export project.export   
+📂 Папка с примерами программного кода на языке ST CoDeSys V3.5 представлены:  
+📄 [Open folde with code file](./docs/)  
+🖼️ Примеры визуализации проекта  
+📄 [Open folde with visual file](./png/)  
 
