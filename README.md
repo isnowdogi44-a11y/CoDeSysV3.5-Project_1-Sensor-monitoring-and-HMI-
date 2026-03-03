@@ -14,8 +14,9 @@
 по протоколу ModBus TCP/IP.
 2.	Создан человеко-машинный интерфейс (HMI) с отображением состояния каждой точки измерения в системе и журнала тревог с кнопками подтверждения реакции оператора на тревогу.
 
-<img width="1319" height="926" alt="image" src="https://github.com/user-attachments/assets/35fed0d0-34b8-4174-bc37-779d22f31456" />
-<img width="1388" height="924" alt="image" src="https://github.com/user-attachments/assets/c7a1834d-f3c4-4a3d-8be7-ec9801c40a58" />
+<img width="1601" height="941" alt="image" src="https://github.com/user-attachments/assets/30544086-1ad8-4b53-b8fb-8dcf0affc20d" />
+
+<img width="1230" height="634" alt="image" src="https://github.com/user-attachments/assets/d8259505-22ed-4bc8-b9ca-da28dda31cd1" />
 
 
 📄 Файл экспортированного проекта CoDeSys V3.5:  
