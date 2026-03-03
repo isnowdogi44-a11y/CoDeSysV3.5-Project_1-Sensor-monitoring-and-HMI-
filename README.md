@@ -21,7 +21,7 @@
 📄 Файл экспортированного проекта CoDeSys V3.5:  
 Export project.export   
 📂 Папка с примерами программного кода на языке ST CoDeSys V3.5 представлены:  
-📄 [Open folde with code file](./docs/)  
+📄 [Open folde with code file](./examples/)  
 🖼️ Примеры визуализации проекта  
 📄 [Open folde with visual file](./png/)  
 
