@@ -1,2 +1,27 @@
 # CoDeSysV3.5-Project_1-Sensor-monitoring-and-HMI-
-Practical work on creating a system for monitoring values from sensors
+Разработка системы контроля параметров снимаемых с датчиков (Practical work on creating a system for monitoring values from sensors)
+
+Цель работы: 
+1.	создать программу контроля измеряемой величины с датчиков подключённых к модулю аналоговых входов;
+2.	производить сравнение измерений с допустимым диапазоном;
+3.	выводить аварийные сообщения о выходе за допустимый диапазон;
+4.	создать визуальный интерфейс для оператора с отображением уставок, реальных значений измеряемых величин и журнала тревог.
+
+Результаты работы:
+1.	создана программа для ПЛК CODESYS Control Win V3, работающего совместно с двумя модулями:
+-	модуль входов
+-	модуль выходов
+по протоколу ModBus TCP/IP.
+2.	Создан человеко-машинный интерфейс (HMI) с отображением состояния каждой точки измерения в системе и журнала тревог с кнопками подтверждения реакции оператора на тревогу.
+
+<img width="1319" height="926" alt="image" src="https://github.com/user-attachments/assets/35fed0d0-34b8-4174-bc37-779d22f31456" />
+<img width="1388" height="924" alt="image" src="https://github.com/user-attachments/assets/c7a1834d-f3c4-4a3d-8be7-ec9801c40a58" />
+
+
+Файл экспортированного проекта:
+📄 [Download Export project](./Final Project.export)
+Файлы с примером программного кода на языке ST CoDeSys V3.5 представлены:
+📄 [Open folde with code file](./docs)
+Примеры визуализации проекта
+📄 [Open folde with visual file](./png)
+
